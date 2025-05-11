@@ -1,6 +1,6 @@
-.venv/bin/*
-.venv/lib/*
-.venv/CACHEDIR.TAG
-.venv/pyvenv.cfg
-.venv/pyproject.toml
+/.venv/bin/*
+/.venv/lib/*
+/.venv/CACHEDIR.TAG
+/.venv/pyvenv.cfg
+/.venv/pyproject.toml
 pyproject.toml
