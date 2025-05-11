@@ -2,6 +2,8 @@
 
 This repository contains examples and demonstrations of Python type hints, showing how they can improve code quality, readability, and help catch errors during development.
 
+This repository is connected to the medium article [Coding Zen - Why Type Hints Are Worth Your Time](https://medium.com/@CodingZen/coding-zen-why-type-hints-are-worth-your-time-8c36b1144e83).
+
 ## Project Overview
 
 Python type hints (introduced in PEP 484) allow developers to specify the expected types of variables, function parameters, and return values. This project demonstrates:
