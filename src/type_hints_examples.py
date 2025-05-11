@@ -21,6 +21,7 @@ def with_apply_discount(price: float, discount: float) -> float:
     return price * (1 - discount)
 
 # Tools like mypy would catch this error during development
+# Run mypy type_hints_examples.py with mypy installed to see error
 with_total_price = with_apply_discount(100, "15%")  # Type error!
 
 print(f"Without Type Hints:{without_total_price}")
