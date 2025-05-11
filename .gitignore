@@ -1,6 +1,5 @@
-/.venv/bin/*
-/.venv/lib/*
-/.venv/CACHEDIR.TAG
-/.venv/pyvenv.cfg
-/.venv/pyproject.toml
-pyproject.toml
+.venv
+uv.lock
+init
+venv
+zsh
